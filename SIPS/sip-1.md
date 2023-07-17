@@ -23,7 +23,7 @@ There are no hard and fast rules about how to write the body text, but standard 
 ## Information SIP
 - Providing information without new functionality (explanation of guidelines and design issues)
 
-# Common header information
+## Common header information
   |SIP|Title|Status|Type|Category|Author|Created|
   |--:|:--:|:--:|:--:|:--:|:--|:--:|
   | Number |The tytle of this SIP|Living / Stagnant / Final | Standard / Process / Inforamtion | Subclass of Type | Your name and contact | Date |
