@@ -14,5 +14,5 @@ Automatic ETH restart：When 10 second block generation stop.(as before)
 Notify block generation instability：7 seconds stop.
 
 ### necessary function
-Automatic restart tool : Detects 7 second stop and outputs a warning log  .
+Automatic restart tool : Detects 7 second stop and outputs a warning log  
 Log monitoring tool : Detect 7 second stop log in real time and send email to node operators.
