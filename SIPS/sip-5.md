@@ -8,12 +8,6 @@ Increase the processing performance of the sanpo blockchain by increasing the ga
 # Abstract
 Increase the gas limit of the Authority node to 600,000,000. (currently go-ethereum's default value of 30,000,000.)
 
-When issuing an NFT with [Content-NFT](https://github.com/sanpo-blockchain/Content-NFT/) smart contract, the number of transactions that can fit in one block is approximately 70.
-
-Since block generation is at 2 second intervals, this represents 35 transactions processed per second.
-
-This is low processing performance for a typical system backend. 
-
 # What we looked into
 We used a testnet to deploy [Content-NFT](https://github.com/sanpo-blockchain/Content-NFT/) smart contract to investigate the number of transactions stored in the block and block size due to changes in gasLimit by issuing a large number of transactions.
 
