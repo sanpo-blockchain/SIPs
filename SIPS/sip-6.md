@@ -12,7 +12,6 @@ We will use our existing DRM services, Widevine and Fairplay, to accomplish thes
 With Widevine and Fairplay, almost any end user can use it.
 
 # Implementation
-In order to play DRM-protected content, the following functions should be provided
 - Image
   - Widevine and Fairplay do not support images. Therefore, image protection is implemented in native applications using OS functionality.
   - For Android, a setting called FLAG_SECURE makes screenshots impossible.
