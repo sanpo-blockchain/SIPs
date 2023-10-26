@@ -62,7 +62,7 @@ The following results were obtained.
   A maximum of 900 KB of block-synchronous data communication occurs.
   Authority nodes also perform non-block-synchronous communications, but we do not believe this data size is large enough to affect these communications. However, if the data size is larger than this, we believe that an impact could occur.
 
-  note: We are planning to conduct a survey with this gasLimit, but it is taking time to prepare the environment to be able to conduct the survey.  
+  note: We are planning to conduct a survey with this gasLimit.  
   
 # Implementation
 - Add the gaslimit setting to go-ethereum startup options.
