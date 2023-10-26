@@ -4,7 +4,10 @@
 
 # Simple Summary
 Wallets that play content require license management and copy protection.
-We would like to implement these functions using existing DRM services, Widevine & Fairplay.
+
+We will use our existing DRM services, Widevine and Fairplay, to accomplish these functions.
+
+With Widevine and Fairplay, almost any end user can use it.
 
 DRM content protection means no/no screenshots and no playback outside the wallet.
 In order to realize DRM protection of content and viewing of DRM-protected content, it is necessary to implement DRM-related functions in the Wallet.
