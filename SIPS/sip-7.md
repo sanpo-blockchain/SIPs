@@ -1,6 +1,6 @@
 |SIP|Title|Status|Type|Category|Author|Created|
 |--:|:--:|:--:|:--:|:--:|:--|:--:|
-|7|Sanpō Storage|Draft|Standard|Extensions|Yutaka Otake(@YErikOhtake)|2023-10-15|
+|7|Sanpō Storage|Review|Standard|Extensions|Yutaka Otake(@YErikOhtake)|2023-10-15|
 
 # Simple Summary
 Provide distributed storage services.
