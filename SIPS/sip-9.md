@@ -1,6 +1,6 @@
   |SIP|Title|Status|Type|Category|Author|Created|
   |--:|:--:|:--:|:--:|:--:|:--|:--:|
-  |9|Improved performance of Content-NFT search processing|Draft|Standard|Application|Yutaka Otake(@YErikOhtake)|2023-10-16|
+  |9|Improved performance of Content-NFT search processing|Review|Standard|Application|Yutaka Otake(@YErikOhtake)|2023-10-16|
 
 # Simple Summary
 Improved performance of [Content-NFT](https://github.com/sanpo-blockchain/Content-NFT/) search processing
