@@ -1,6 +1,6 @@
   |SIP|Title|Status|Type|Category|Author|Created|
   |--:|:--:|:--:|:--:|:--:|:--|:--:|
-  |6|Wallet with DRM function|Draft|Standard|Application|Yutaka Otake(@YErikOhtake)|2023-10-15|
+  |6|Wallet with DRM function|Review|Standard|Application|Yutaka Otake(@YErikOhtake)|2023-10-15|
 
 # Simple Summary
 Application that play NFT content require license management and content protection.
