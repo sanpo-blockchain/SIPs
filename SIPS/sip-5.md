@@ -70,6 +70,9 @@ The following results were obtained.
   ```--miner.gaslimit 600000000```
 
 # Response status
+(2023/11/30)
+- We asked the node operators to respond this SIP.
+  
 (2023/12/28)
 - Confirmed that gasLimit is now 6,000,000,000 in eth-stats. However, we also confirmed that gasLimit drops from 6,000,000,000 and then rises again to 6,000,000,000.
 - This indicates that more than half of the nodes are already done, but also indicates that some nodes are not yet.
