@@ -27,9 +27,17 @@ Considering such cases, extend to 30 seconds and monitor progress.
 
   ```  result, err := DoCall(ctx, s.b, args, blockNrOrHash, accounts, vm.Config{}, 30*time.Second, s.b.RPCGasCap())```
 
-- GETH node 1.10.9 or lower requires complicated procedures, and mixing multiple versions is undesirable from an operational standpoint, so the policy is to **upgrade to 1.1.10 or higher**.
+- GETH node 1.10.9 or lower requires complicated procedures, and mixing multiple versions is undesirable from an operational standpoint, so the policy is to **upgrade to 1.10.10 or higher**.
 
 ## go-ethereum 1.10.10 or higher
 - Add the timeout setting to go-ethereum startup options.
   
   ```--rpc.evmtimeout 30s```
+
+# Response status
+(2023/11/30)
+- We asked the node operators to respond this SIP.
+
+(2023/12/28)
+- Of the two nodes to be upgraded, one node (hakuhodo) has already been upgraded. The other node (singulanet-corridor) will be upgraded over the year-end and New Year holidays.
+- Nodes that have not yet been done should be completed by the end of January 2024.
