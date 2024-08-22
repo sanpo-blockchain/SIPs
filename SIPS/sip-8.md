@@ -1,6 +1,6 @@
   |SIP|Title|Status|Type|Category|Author|Created|
   |--:|:--:|:--:|:--:|:--:|:--|:--:|
-  |8|Change the timeout value of go-ethereum(geth)'s call|Review|Standard|Core|Yutaka Otake(@YErikOhtake)|2023-10-16|
+  |8|Change the timeout value of go-ethereum(geth)'s call|Final|Standard|Core|Yutaka Otake(@YErikOhtake)|2023-10-16|
 
 # Simple Summary
 Change the timeout value of geth function call from the default of 5 seconds to 30 seconds.
