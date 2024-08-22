@@ -1,6 +1,6 @@
   |SIP|Title|Status|Type|Category|Author|Created|
   |--:|:--:|:--:|:--:|:--:|:--|:--:|
-  |5|Increase the value of gasLimit|Review|Standard|Core|Yutaka Otake(@YErikOhtake)|2023-10-05|
+  |5|Increase the value of gasLimit|Final|Standard|Core|Yutaka Otake(@YErikOhtake)|2023-10-05|
 
 # Simple Summary
 Increase the processing performance of the sanpo blockchain by increasing the gas limit of authoritative nodes.
